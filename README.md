@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @12345-topten
+- 👋 Hi,Stanzin Stobdan
 - 👀 I’m interested in 
 - 🌱 I’m currently learning pthon 
 - 💞️ I’m looking to collaborate on image indentifier 
