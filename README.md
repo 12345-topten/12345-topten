@@ -1,7 +1,6 @@
 - 👋 Hi,Stanzin Stobdan
 - 👀 I’m interested in 
-- 🌱 I’m currently learning pthon 
-- 💞️ I’m looking to collaborate on image indentifier 
+- 🌱 I’m currently learning Python  
 - 📫 How to reach me tenzinstopden746@gmail.com
 
 <!---
